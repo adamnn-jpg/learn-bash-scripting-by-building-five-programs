@@ -47,3 +47,4 @@ echo Hello Adam
 ./questionnaire.sh
 ./questionnaire.sh
 echo --help
+man echo
