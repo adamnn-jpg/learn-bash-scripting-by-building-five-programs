@@ -111,3 +111,4 @@ ls --color=auto
 __vsc_prompt_cmd_original
 chmod +x bingo.sh
 __vsc_prompt_cmd_original
+./bingo.sh
