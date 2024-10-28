@@ -1,5 +1,7 @@
 #!/bin/bash
-#Bingo Number Generator
+
+# Bingo Number Generator
+
 echo -e "\n~~ Bingo Number Generator ~~\n"
 
 NUMBER=5
