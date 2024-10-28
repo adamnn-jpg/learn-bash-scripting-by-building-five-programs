@@ -183,3 +183,9 @@ git status
 mv .vscode/ vscode
 help let
 git add .
+git commit -m "Saving changes before pull"
+git pull --rebase origin main
+git pull --rebase origin main
+git pull --rebase origin
+git push origin main
+cd
