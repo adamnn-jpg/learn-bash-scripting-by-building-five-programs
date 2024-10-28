@@ -43,3 +43,4 @@ ls --color=auto -l
 ./questionnaire.sh
 echo Hello $NAME
 echo Hello Adam
+./questionnaire.sh
